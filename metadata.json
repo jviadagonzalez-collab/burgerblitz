@@ -1,0 +1,6 @@
+{
+  "name": "BurgerBlitz QSR",
+  "description": "A high-conversion landing page for a Quick Service Restaurant (QSR) focused on driving mobile orders and app downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
